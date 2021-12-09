@@ -1,0 +1,13 @@
+﻿Product-ID,Medicines,Category ,Price,Type,Strengths,Quantity,Warehouse-location
+1,Acetyl Salicylic Acid,"P, S, T",280,Tablets,"325mg, 350  mg",76,Chennai
+2,Diclofenac,T,640,Tablets,50 mg,479,Chennai
+3,Ibuprofen,"P, S, T",580,Powder,"200 mg, 400 mg",154,Chennai
+4,Paracetamol,"P, S, T",940,Tablets,500 mg,576,Chennai
+5,Morphine Sulphate,S,310,Syringe,10 mg,305,Chennai
+6,Allopurinol,"S, T",530,Tablets,100 mg,997,Mumbai
+7,Colchicine,"S, T",40,Powder,0.5 mg,795,Mumbai
+8,Azathioprine,"S, T",520, Powder,50 mg,482,Mumbai
+9,Methotrexate,"S,T",720,Tablets,"5mg, 7.5mg, 10mg",269,Mumbai
+10,Sulfasalazine,"S, T",260,Powder,500 mg,882,Bangalore
+11,Hydroxychloroquine phosphate ,"S,T",920,Tablets,200 mg,886,Bangalore
+12,Leflunomide,"S,T",440,Tablets,"10mg ,20 mg tab",769,Bangalore
