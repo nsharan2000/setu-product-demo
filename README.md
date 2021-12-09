@@ -1,7 +1,11 @@
-## setu-product-demo
+# setu-product-demo
 This Repo contains product demo for setu.in
-## Problem statement:
-# Personalized Pill Pack Recommendation
+The script is written in python as an ipython notebook.
+Pandas used for data analysis
+Sample data created with reference from : https://www.who.int/selection_medicines/country_lists/India_NLME_2011.pdf
+
+# Problem statement:
+## Personalized Pill Pack Recommendation
 
 Details - We have a scientifically designed sense test where we ask around 15-20 questions depending on the goal user selects and after considering user inputs, we recommend the best products (2-3 products for each goal) to help achieve your goals.
 
